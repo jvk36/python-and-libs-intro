@@ -1,4 +1,8 @@
 numpy
 pandas
 pillow
-turtle
+Flask
+SQLAlchemy
+Flask-SQLAlchemy
+psycopg2-binary
+requests
