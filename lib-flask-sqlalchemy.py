@@ -3,9 +3,9 @@ from flask_sqlalchemy import SQLAlchemy
 
 # SQLite INTRO - FILE BASED DB
 #
-# Compared to sqlalchemy, Flask-SQLAlchemy handles much of the setup for you, 
-# including session management, so you can focus more on writing queries and 
-# less on configuring things manually.
+# Compared to sqlalchemy (lower level python library), Flask-SQLAlchemy handles
+#  much of the setup for you, including session management, so you can focus 
+# more on writing queries and less on configuring things manually.
 # 
 # Step-by-Step:
 #

@@ -11,3 +11,7 @@ python-dotenv
 pyautogui
 selenium
 twilio
+WTForms
+Flask-WTF
+email_validator
+Bootstrap_Flask
