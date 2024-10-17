@@ -15,3 +15,5 @@ WTForms
 Flask-WTF
 email_validator
 Bootstrap_Flask
+Flask_Login
+Werkzeug
